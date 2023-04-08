@@ -25,8 +25,8 @@ The famous floating point is a type used for rational numbers (numbers that can 
 
 Examples:
 '''
-n3 = int(input('Write your height: '))
-n4 = int(input('Write your weight: '))
+n3 = float(input('Write your height: '))
+n4 = float(input('Write your weight: '))
 print('You are {} tall and weigh {} kg.'.format(n3, n4))
 print(type(n3))
 print(type(n4))
