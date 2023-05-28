@@ -29,7 +29,7 @@ pow(4, 3) which is going to give us the result 64.
 We can also find the square root of a number using the exponentiation operator.
 Example:
 81 ** (1/2) which is going to give us the result 9.
-If you use (1/3) you will find the root cubic.
+If you use (1/3) you will find the cubic root.
 '''
 
 n1 = int(input('Write a number: '))
