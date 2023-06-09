@@ -1,4 +1,4 @@
-'''Write a program that reads two grades of a student, calculates it and displays it's average'''
+'''Write a program that reads two grades of a student, calculates it and displays its average'''
 grade1 = float(input("First student's grade: "))
 grade2 = float(input("Second student's grade: "))
 average = (grade1 + grade2) / 2
